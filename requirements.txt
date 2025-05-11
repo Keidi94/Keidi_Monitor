@@ -4,3 +4,4 @@ plotly
 yfinance
 requests
 supabase
+streamlit-quill
